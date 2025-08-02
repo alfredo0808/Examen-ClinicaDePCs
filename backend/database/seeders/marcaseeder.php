@@ -26,6 +26,12 @@ class marcaseeder extends Seeder
                 'descripcion'=>'Marca destacada por equipos de alto rendimiento para negocios y gaming.',
                 'created_at'=>now(),
                 'updated_at'=>now(),
+            ],
+            [
+                'nombre'=>'	Lenovo',
+                'descripcion'=>'Conocida por sus laptops ThinkPad y productos empresariales confiables.',
+                'created_at'=>now(),
+                'updated_at'=>now(),
             ]
             ]);
 
